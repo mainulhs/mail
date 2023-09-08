@@ -1,0 +1,10 @@
+textarea {
+    min-height: 400px;
+}
+
+.email {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
